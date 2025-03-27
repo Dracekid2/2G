@@ -1,4 +1,4 @@
-print("Napiš dvě čísla a já ti je sečtu")
+print("Zadej dvě čísla a já ti je sečtu")
 
 # Získání čísel od uživatele
 x = int(input("Zde zadejte nějaké číslo: "))
